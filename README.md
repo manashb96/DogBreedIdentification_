@@ -1,6 +1,7 @@
 # DogBreedIdentification_Kaggle
 
 This is based on the data from a Kaggle competition named 'Dog Breed Identification'  
+https://www.kaggle.com/c/dog-breed-identification  
 
 According to the data provided from Kaggle the format was such that we had 2 folders of test and train along with the labels csv file with names from the train directory and a sample_submission file with the names of the test directory.  
 
